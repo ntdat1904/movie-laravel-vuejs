@@ -1,0 +1,17 @@
+.border-global {
+    border-radius: 5px !important;
+}
+.has-error #upload {
+    border-color: red;
+}
+.has-error .multiselect__tags {
+    border-radius: 5px !important;
+    border: 1px solid red;
+}
+.has-error .ck-rounded-corners {
+    border-radius: 5px !important;
+    border: 1px solid red;
+}
+.has-error .ck-content {
+    border-bottom-color: red !important;
+}

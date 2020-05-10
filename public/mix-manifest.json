@@ -1,0 +1,8 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/assets/frontend.css": "/assets/frontend.css",
+    "/js/frontend.js": "/js/frontend.js",
+    "/plugins/video.js": "/plugins/video.js",
+    "/plugins/video.js/dist/video-js.swf": "/plugins/video.js/dist/video-js.swf"
+}
