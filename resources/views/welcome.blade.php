@@ -49,8 +49,9 @@
 <script src="{{ asset('assets/global/plugins/jquery-slimscroll/jquery.slimscroll.min.js') }}"></script>
 <script src="{{ asset('assets/global/plugins/jquery.blockui.min.js') }}"></script>
 <script src="{{ asset('assets/global/plugins/bootstrap-switch/js/bootstrap-switch.min.js') }}"></script>
-11111111111111111111111111111
-22222222222222222222222222222
+1111111111111
+2222222222222
+3333333333333
 <script src="{{ asset('assets/global/plugins/morris/morris.min.js') }}"></script>
 <!-- BEGIN THEME GLOBAL SCRIPTS -->
 <script src="{{ asset('/assets/global/scripts/app.min.js') }}"></script>
